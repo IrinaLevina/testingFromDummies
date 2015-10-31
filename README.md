@@ -7,7 +7,6 @@
  - [grunt-phantamas]
  - [CasperJS]
  - [BackstopJS]
- 
  - [Gremlins - monkey testing]
  - [Automated Frontend Testing]
  - [How To Create Your Own Front-End Website Testing Plan]
