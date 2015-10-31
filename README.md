@@ -14,6 +14,7 @@
  - [Jasmin Introduction]
  - [javascript.ru: Качество кода]
  - [Front-end Testing for the Lazy Developer with CasperJS]
+ - [Jasmine.js: Quick start]
 
    [Jasmin]: <http://jasmine.github.io/>
    [GremlinsJS]: <https://github.com/marmelab/gremlins.js>
@@ -27,6 +28,7 @@
    [Jasmin Introduction]: <http://jasmine.github.io/edge/introduction.html> 
    [javascript.ru: Качество кода]: <https://learn.javascript.ru/testing>
    [Front-end Testing for the Lazy Developer with CasperJS]: <http://www.helpscout.net/blog/functional-testing-casperjs/>
+   [Jasmine.js: Quick start]: <http://www.web-adviser.ru/?page_id=325>
    
 
 
