@@ -23,7 +23,7 @@
    [Gremlins - monkey testing]: <http://habrahabr.ru/post/216805/>
    [Automated Frontend Testing]: <http://rupl.github.io/frontend-testing/#/>
    [How To Create Your Own Front-End Website Testing Plan]: <http://www.smashingmagazine.com/2014/11/how-to-create-your-own-front-end-website-testing-plan/>
-   [Jasmin Introduction]: <http://jasmine.github.io/edge/introduction.html>
+   [Jasmin Introduction]: <http://jasmine.github.io/edge/introduction.html> 
    [javascript.ru: Качество кода]: <https://learn.javascript.ru/testing>
    [Front-end Testing for the Lazy Developer with CasperJS]: <http://www.helpscout.net/blog/functional-testing-casperjs/>
    
