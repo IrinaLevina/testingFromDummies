@@ -3,17 +3,17 @@
 Полезные ссылки: 
 
  - [Jasmin]
-  - [GremlinsJS]
-  - [grunt-phantamas]
-  - [CasperJS]
-  - [BackstopJS]
- 
-  - [Gremlins - monkey testing]
-  - [Automated Frontend Testing]
-  - [How To Create Your Own Front-End Website Testing Plan]
-  - [Jasmin Introduction]
-  - [javascript.ru: Качество кода]
-  - [Front-end Testing for the Lazy Developer with CasperJS]
+ - [GremlinsJS]
+ - [grunt-phantamas]
+ - [CasperJS]
+ - [BackstopJS]
+
+ - [Gremlins - monkey testing]
+ - [Automated Frontend Testing]
+ - [How To Create Your Own Front-End Website Testing Plan]
+ - [Jasmin Introduction]
+ - [javascript.ru: Качество кода]
+ - [Front-end Testing for the Lazy Developer with CasperJS]
 
    [Jasmin]: <http://jasmine.github.io/>
    [GremlinsJS]: <https://github.com/marmelab/gremlins.js>
