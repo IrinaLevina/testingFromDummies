@@ -4,7 +4,8 @@
 
  - [Jasmin]
  - [GremlinsJS]
- - [grunt-phantamas]
+ - [Phantomas]
+ - [grunt-phantomas]
  - [CasperJS]
  - [BackstopJS]
  - [Gremlins - monkey testing]
@@ -16,7 +17,8 @@
 
    [Jasmin]: <http://jasmine.github.io/>
    [GremlinsJS]: <https://github.com/marmelab/gremlins.js>
-   [grunt-phantamas]: <https://www.npmjs.com/package/grunt-phantomas>
+   [grunt-phantomas]: <https://www.npmjs.com/package/grunt-phantomas>
+   [Phantomas]: <https://github.com/macbre/phantomas>
    [CasperJS]: <http://docs.casperjs.org/en/latest/>
    [BackstopJS]: <https://github.com/garris/BackstopJS>
    [Gremlins - monkey testing]: <http://habrahabr.ru/post/216805/>
